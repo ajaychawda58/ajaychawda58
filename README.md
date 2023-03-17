@@ -19,8 +19,8 @@ at Neurips 2022 workshop on Synthetic Data for Empowering ML research.
 
 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TF Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex Logo" width="50" height="50"/>
 ---
 
 ## &#x1f4c8; My GitHub Stats
