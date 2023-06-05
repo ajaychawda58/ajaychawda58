@@ -26,4 +26,4 @@ at Neurips 2022 workshop on Synthetic Data for Empowering ML research.
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychawda58&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychawda58&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
