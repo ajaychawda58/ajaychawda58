@@ -23,15 +23,7 @@ at Neurips 2022 workshop on Synthetic Data for Empowering ML research.
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex Logo" width="50" height="50"/>
 ---
 
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://ajaychawda.wordpress.com/blogs/)
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychawda58&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychawda58&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychawda58&theme=radical)](https://github.com/anuraghazra/github-readme-stats)]
